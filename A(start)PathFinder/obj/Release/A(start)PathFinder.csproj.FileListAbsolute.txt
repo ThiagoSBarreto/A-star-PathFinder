@@ -1,0 +1,14 @@
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\bin\Release\A(start)PathFinder.exe.config
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\bin\Release\A(start)PathFinder.exe
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\bin\Release\A(start)PathFinder.pdb
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\MainWindow.g.cs
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\App.g.cs
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\A(start)PathFinder_MarkupCompile.cache
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\A(start)PathFinder_MarkupCompile.lref
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\MainWindow.baml
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\A(start)PathFinder.g.resources
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\A_start_PathFinder.Properties.Resources.resources
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\A(start)PathFinder.csproj.GenerateResource.cache
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\A(start)PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\A(start)PathFinder.exe
+C:\Users\thiago.barreto\source\repos\A(start)PathFinder\A(start)PathFinder\obj\Release\A(start)PathFinder.pdb
